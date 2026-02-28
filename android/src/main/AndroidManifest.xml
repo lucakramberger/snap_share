@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.snap_share.package">
+    package="com.snap_share.plugin">
 
     <!-- Query for Snapchat app (required for Android 11+) -->
     <queries>

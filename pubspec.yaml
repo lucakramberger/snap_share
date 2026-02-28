@@ -1,6 +1,6 @@
 name: snap_share
 description: Share images and content to Snapchat using Creative Kit. Supports both iOS (SCSDKCreativeKit) and Android (Creative Kit Lite).
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/lucakramberger/snap_share
 repository: https://github.com/lucakramberger/snap_share
 issue_tracker: https://github.com/lucakramberger/snap_share/issues
@@ -22,7 +22,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.snap_share.package
+        package: com.snap_share.plugin
         pluginClass: SnapSharePlugin
       ios:
         pluginClass: SnapSharePlugin

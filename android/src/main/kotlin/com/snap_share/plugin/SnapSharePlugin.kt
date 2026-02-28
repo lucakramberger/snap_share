@@ -1,4 +1,4 @@
-package com.snap_share.`package`
+package com.snap_share.plugin
 
 import android.app.Activity
 import android.content.Context

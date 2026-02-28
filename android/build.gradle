@@ -1,4 +1,4 @@
-group 'com.snap_share.package'
+group 'com.snap_share.plugin'
 version '1.0.0'
 
 buildscript {
@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace 'com.snap_share.package'
+    namespace 'com.snap_share.plugin'
     compileSdk 34
 
     compileOptions {
